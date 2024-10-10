@@ -1,0 +1,14 @@
+body {
+    background: rgb(190, 94, 94);
+}
+
+div {
+    background: rgb(189, 147, 147);
+    
+}
+
+div a {
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    font-size: 24px;
+}
